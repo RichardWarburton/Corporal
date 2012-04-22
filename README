@@ -1,0 +1,9 @@
+Corporal is a statistical corpus analyser.
+
+Its goal is to be able to give people a jar which they can run over their own code corpuses
+and then return you some statistics.  An example code corpus might include all the source
+code owned by a company.
+
+At the moment it provides a minimal and simple API and only contains a single query related
+to JSR 310 development.
+
